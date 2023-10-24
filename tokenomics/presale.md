@@ -9,6 +9,7 @@ Here you can find all the details of the Chainverge presale:
   * Blockchain: Ethereum
 * **PreSale Allocation:**
   * Total Tokens for PreSale: 25,000,000 CVE
+  * 10% of all Token Purchases funding the Marketing kickstart on Launch
 * **Pricing Structure:**
 
 
