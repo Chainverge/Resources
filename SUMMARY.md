@@ -46,6 +46,7 @@
   * [🎮 How to buy CVE Token](fundamentals/getting-set-up/how-to-buy-cve-token.md)
   * [💸 How to Stake CVE](fundamentals/getting-set-up/how-to-stake-cve.md)
   * [▶ Video Instructions](fundamentals/getting-set-up/video-instructions.md)
-* [🔗 Links](fundamentals/links.md)
+* [🔗 Links](fundamentals/links/README.md)
+  * [Pitch Deck](fundamentals/links/pitch-deck.md)
 * [🎥 PRESS](fundamentals/press.md)
 * [👨💼 Affiliate](fundamentals/affiliate.md)
