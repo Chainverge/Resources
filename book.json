@@ -1,0 +1,7 @@
+{
+    "title": "Chainverge",
+    "description": "Chainverge",
+    "author": "Your Name",
+    "plugins": ["embed-pdf"],
+    "pluginsConfig": {}
+}
