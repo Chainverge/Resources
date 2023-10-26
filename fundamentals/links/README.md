@@ -7,4 +7,5 @@ Gitbook: [https://chainverge.gitbook.io/chainverge/](https://chainverge.gitbook.
 Logo: [https://imgur.com/a/ww4FSAe](https://imgur.com/a/ww4FSAe)\
 Medium: [https://medium.com/@chainverge/](https://medium.com/@chainverge/chainverge-pioneering-the-future-of-crypto-gaming-and-defi-d98475389a68)
 
-{% @github-files/github-code-block url="https://github.com/Chainverge/Resources/blob/8fbfc12eae31d7fcc2c7b1543bf044b68b1fed73/Chainverge_PitchDeck_EN.pdf" %}
+
+
