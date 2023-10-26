@@ -22,9 +22,12 @@
 * [- Mobile App](products/mobile-app.md)
 * [📖 Product Status Table](products/product-status-table.md)
 
-## 🎮 Games
+## 🎮 Primus Multiplayer
 
-* [- Primus Zombie FPS \[Pre Access\]](games/primus-zombie-fps-pre-access.md)
+* [Table Of Content](primus-multiplayer/table-of-content/README.md)
+  * [Introduction](primus-multiplayer/table-of-content/introduction/README.md)
+    * [Overview of Primus](primus-multiplayer/table-of-content/introduction/primus-zombie-fps-pre-access.md)
+    * [Game's Objective and Setting](primus-multiplayer/table-of-content/introduction/games-objective-and-setting.md)
 
 ## 🏛 Governance \[DAO]
 
