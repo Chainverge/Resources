@@ -26,8 +26,11 @@
 
 * [Table Of Content](primus-multiplayer/table-of-content/README.md)
   * [Introduction](primus-multiplayer/table-of-content/introduction/README.md)
-    * [Overview of Primus](primus-multiplayer/table-of-content/introduction/primus-zombie-fps-pre-access.md)
+    * [Overview of Primus](games/primus-zombie-fps-pre-access.md)
     * [Game's Objective and Setting](primus-multiplayer/table-of-content/introduction/games-objective-and-setting.md)
+  * [Game Platforms & Distribution](primus-multiplayer/table-of-content/game-platforms-and-distribution/README.md)
+    * [Supported Platforms](primus-multiplayer/table-of-content/game-platforms-and-distribution/supported-platforms.md)
+    * [Distribution Channel](primus-multiplayer/table-of-content/game-platforms-and-distribution/distribution-channel.md)
 
 ## 🏛 Governance \[DAO]
 

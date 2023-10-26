@@ -1,4 +1,4 @@
-# - Primus Zombie FPS \[Pre Access]
+# Overview of Primus
 
 "Primus" is Chainverge's flagship entry into the Play2Earn gaming sphere. This multiplayer survival game, set in a post-apocalyptic landscape, offers players an intricate blend of strategy, collaboration, and sheer survival prowess, all while earning tangible rewards.
 
