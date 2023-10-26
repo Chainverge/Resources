@@ -12,7 +12,8 @@
 **Functions:**\
 \- Transfer\
 \- Burn Tokens\
-\- Tax on Swap
+\- Tax on Swap\
+\- Whitelist Fee Contract
 
 \
 **Security:**\
