@@ -16,7 +16,7 @@ Fees play a pivotal role in sustaining the development, growth, and long-term vi
 
 We'll break down the various types of fees you may encounter within the Project ecosystem. Whether it's transaction fees, staking fees, or Game and Item fees, we'll provide a comprehensive breakdown of each fee's purpose and the percentage allocation.\
 \
-\- **1% Token Exchange Fee ( 0,5% Burn, 0,5% Coinsafe )**\
+\- **1% Token Transaction Fee ( 0,5% Burn, 0,5% Coinsafe )**\
 This fee occurs when trading on decentralized exchanges and is immediately burned off, reducing the circulation of CVE tokens.\
 **Distribution:** 0,5% Burn, 0,5% Coinsafe\
 \
