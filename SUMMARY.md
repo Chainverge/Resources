@@ -34,7 +34,8 @@
 
 ## 🏛 Governance \[DAO]
 
-* [- DAO](governance-dao/dao.md)
+* [- DAO](governance-dao/dao/README.md)
+  * [Guidelines](governance-dao/dao/guidelines.md)
 * [- How to Guide](governance-dao/how-to-guide/README.md)
   * [Submit a DAO Proposal](governance-dao/how-to-guide/submit-a-dao-proposal.md)
   * [Delegate your Voting Power](governance-dao/how-to-guide/delegate-your-voting-power.md)
