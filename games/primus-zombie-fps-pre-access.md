@@ -4,7 +4,7 @@
 
 ***
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td></td><td></td><td><a href="../.gitbook/assets/Island01.png">Island01.png</a></td></tr><tr><td></td><td></td><td></td><td><a href="../.gitbook/assets/Island02.png">Island02.png</a></td></tr><tr><td></td><td></td><td></td><td><a href="../.gitbook/assets/Island03.png">Island03.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td></td><td></td><td><a href="../.gitbook/assets/Island01.png">Island01.png</a></td></tr><tr><td></td><td></td><td></td><td><a href="../.gitbook/assets/Island02.png">Island02.png</a></td></tr><tr><td></td><td></td><td></td><td><a href="../.gitbook/assets/Island03.png">Island03.png</a></td></tr><tr><td></td><td></td><td></td><td><a href="../.gitbook/assets/Primus_Hud_Inventory.png">Primus_Hud_Inventory.png</a></td></tr><tr><td></td><td></td><td></td><td><a href="../.gitbook/assets/Primus_Hud_Attributs.png">Primus_Hud_Attributs.png</a></td></tr><tr><td></td><td></td><td></td><td><a href="../.gitbook/assets/Primus_Hud_Crafting.png">Primus_Hud_Crafting.png</a></td></tr></tbody></table>
 
 **Game Overview:**
 
