@@ -38,8 +38,6 @@
   * [Guidelines](governance-dao/dao/guidelines.md)
 * [- How to Guide](governance-dao/how-to-guide/README.md)
   * [Submit a DAO Proposal](governance-dao/how-to-guide/submit-a-dao-proposal.md)
-  * [Delegate your Voting Power](governance-dao/how-to-guide/delegate-your-voting-power.md)
-  * [Become a Delegate](governance-dao/how-to-guide/become-a-delegate.md)
   * [Vote on Proposals](governance-dao/how-to-guide/vote-on-proposals.md)
 * [- Development](governance-dao/development.md)
 
