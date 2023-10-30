@@ -12,11 +12,11 @@ Chainverge's Decentralized Autonomous Organization (DAO) empowers its community 
 
 * Ensure you have the MetaMask extension installed on your browser.
 * Login to your MetaMask wallet and ensure you have some BNB for transaction fees.
-* If you dont have any BNB navigate to [Chainverge](https://chainverge.net/) to buy BNB with FIAT.
+* If you dont have any BNB navigate to [Chainverge](https://chainverge.net/trade) to buy BNB with FIAT.
 
 **Navigate to Chainverge Platform:**
 
-* Open your browser and go to the Chainverge website.
+* Open your browser and go to the Chainverge [website](https://chainverge.net/).
 
 **Connect with MetaMask:**
 
@@ -26,7 +26,7 @@ Chainverge's Decentralized Autonomous Organization (DAO) empowers its community 
 
 **Access the DAO Section:**
 
-* Once connected, navigate to the "DAO" section from the main menu on the top.
+* Once connected, navigate to the "[DAO](https://chainverge.net/voting)" section from the main menu on the top.
 
 **Review Existing Proposals:**
 
@@ -34,7 +34,7 @@ Chainverge's Decentralized Autonomous Organization (DAO) empowers its community 
 
 **Initiate Proposal Submission:**
 
-* Find and click on the "Submit Proposal" button.
+* Click on the "Make a Proposal" button.
 
 **Enter Proposal Details:**
 
