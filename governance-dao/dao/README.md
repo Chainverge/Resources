@@ -1,7 +1,7 @@
 # - DAO
 
 Chainverge's Decentralized Autonomous Organization (DAO) is a foundational pillar of its ecosystem, ensuring that decision-making is transparent, democratic, and truly represents the interests of its community. The DAO oversees the development and direction of all Chainverge products, from games to DeFi offerings.\
-Vote here: [www.chainverge.net/dao](https://www.chainverge.net/dao)
+Vote here: [https://www.chainverge.net/dao](https://www.chainverge.net/dao)
 
 ***
 
