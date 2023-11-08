@@ -18,7 +18,7 @@
 \
 **Security:**\
 \- No mint Function\
-\- Secured by [Audit](https://bailsec.io/)\
+\- Secured by [Audit](https://github.com/bailsec/BailSec/blob/main/CVE%20Token%20Final%20Report%20Github.pdf)\
 \- Open Source\
 \- Transparent disclosure of wallets and funds
 
