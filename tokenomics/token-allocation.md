@@ -1,6 +1,6 @@
 # - Token Allocation
 
-This page provides a detailed breakdown of how the total supply of tokens is distributed among various categories, such as team, advisors, reserves, and community incentives. It offers transparency into the project's token distribution strategy, ensuring stakeholders understand where and how tokens are allocated.
+This page provides a detailed breakdown of how the total supply of tokens is distributed among various categories, such as DAO team, reserves, and community incentives. It offers transparency into the project's token distribution strategy, ensuring stakeholders understand where and how tokens are allocated.
 
 | Wallet / Contract       | Amount of Tokens | Controlled by DAO |
 | ----------------------- | ---------------- | ----------------- |
