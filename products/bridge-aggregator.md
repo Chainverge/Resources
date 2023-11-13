@@ -1,7 +1,7 @@
 # - Bridge Aggregator
 
 In the rapidly evolving world of decentralized finance, Chainverge is set to introduce its state-of-the-art Bridge Aggregator. This innovative tool is designed to simplify and optimize the process of bridging tokens across various networks, ensuring users get the best value for their cross-chain transfers.\
-Bridge here: [www.chainverge.net/](https://www.chainverge.net/bridge)swap
+Bridge here: [www.chainverge.net/](https://www.chainverge.net/bridge)[swap](https://chainverge.net/swap)
 
 ***
 
