@@ -18,9 +18,9 @@ Level 2: 5% \
 Level 3: 3%
 
 **Staking: \[Based on Profit]**\
-Level 1: 25%\
-Level 2: 10%\
-Level 3: 5%\
+Level 1: 15%\
+Level 2: 5%\
+Level 3: 3%\
 \
 **Crypto Card: \[Based on Card Price]**\
 Level 1: 50%\
