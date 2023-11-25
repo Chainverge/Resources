@@ -13,8 +13,7 @@
 ## 🤖 Products
 
 * [- Staking](products/staking.md)
-* [- Swap Aggregator](products/swap-aggregator.md)
-* [- Bridge Aggregator](products/bridge-aggregator.md)
+* [- Exchange](products/swap-aggregator.md)
 * [- Fee & Safe](products/fee-and-safe.md)
 * [- Crypto Card](products/crypto-card.md)
 * [- VergeBot](products/vergebot.md)
