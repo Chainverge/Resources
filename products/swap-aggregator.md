@@ -1,7 +1,7 @@
 # - Exchange
 
 Chainverge's decentralized Exchange is a cutting-edge tool designed to revolutionize the way users exchange tokens. By intelligently navigating the vast landscape of decentralized exchanges, it ensures users receive the most value for their swaps.\
-Swap here: [www.chainverge.net/](https://www.chainverge.net/swap)exchange
+Swap here: [www.chainverge.net/](https://www.chainverge.net/swap)[swap](https://chainverge.net/swap)
 
 ***
 
