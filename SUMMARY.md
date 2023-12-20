@@ -24,7 +24,7 @@
 ## 🎮 Primus Multiplayer
 
 * [Introduction](primus-multiplayer/introduction.md)
-* [Overview of Primus](primus-multiplayer/primus-zombie-fps-pre-access.md)
+* [Overview of Primus](games/primus-zombie-fps-pre-access.md)
 * [Table Of Content](primus-multiplayer/table-of-content/README.md)
   * [Introduction](primus-multiplayer/table-of-content/introduction/README.md)
     * [Game's Objective and Setting](primus-multiplayer/table-of-content/introduction/games-objective-and-setting.md)

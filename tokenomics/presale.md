@@ -21,7 +21,7 @@ Here you can find all the details of the Chainverge presale:
 
 **Vesting:**&#x20;
 
-* 10% TGE (20% released each month)
+* 10% Token Generation Event (TGE)
 * 12 month linear vesting (7.5% /month)
 
 **Pricing Structure:**
