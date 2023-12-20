@@ -24,8 +24,6 @@
 ## 🎮 Primus Multiplayer
 
 * [Introduction](primus-multiplayer/introduction.md)
-* [Overview of Primus](games/primus-zombie-fps-pre-access.md)
-* [Table Of Content](primus-multiplayer/table-of-content.md)
 
 ## 🏛 Governance \[DAO]
 
