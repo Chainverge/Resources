@@ -3,17 +3,28 @@
 The presale of Chainverge is a strategic phase where early adopters or investors have the opportunity to purchase Chainverge's CVE tokens before they are listed on public exchanges. \
 Here you can find all the details of the Chainverge presale:
 
-* **Token Details:**
-  * Token Name: Chainverge
-  * Token Shortcut: CVE
-  * Blockchain: Ethereum
-* **PreSale Allocation:**
-  * Total Tokens for PreSale: 25,000,000 CVE
-  * 10% of all Token Purchases funding the Marketing Kickstart on Launch
-  * 90% of all Token Purchases will be provided as DEX Liquidity
-* **Pricing Structure:**
+**Token Details:**
 
+* Token Name: Chainverge
+* Token Shortcut: CVE
+* Blockchain: Ethereum
+* PreSale Tokens: 25,000,000 CVE
 
+**Funds Allocation:**
+
+* 10% of all Token Purchases are funding the Marketing Kickstart on Launch
+* 90% of all Token Purchases will get locked as DEX Liquidity on [Uniswap](https://uniswap.org/)
+
+**Minimum Investment:**
+
+* 3000 CVE
+
+**Vesting:**&#x20;
+
+* 10% TGE (20% released each month)
+* 12 month linear vesting (7.5% /month)
+
+**Pricing Structure:**
 
 | Phase            | Price  | Tokens    |
 | ---------------- | ------ | --------- |
@@ -25,14 +36,6 @@ Here you can find all the details of the Chainverge presale:
 | PreSale 5        | 0.08$  | 3.000.000 |
 | PreSale 6        | 0.085$ | 2.500.000 |
 | Exchange Listing | 0,10$  |           |
-
-* **Listing Price:**
-  * The token will get listed at a price of $0.10.
-* **Minimum Investment:**
-  * Investors need to purchase at least 3,000 tokens to participate in the presale.
-* **Vesting Period:**
-  * Investors will receive 20% of their purchased tokens per month. \
-    This vesting starts either after all sale phases are completed or when it's triggered.
 
 
 
