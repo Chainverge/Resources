@@ -47,7 +47,7 @@ This collaboration guarantees that every aspect of Chainverge is fortified again
 PreSale Contract:
 
 ```remix-solidity
-0x4e077230E0B9c0977f4c95D843BFee9F14BeD9F6
+0xf029F29a82f569BDac207750a5B3EBD2Ffb375e0
 ```
 
 \
