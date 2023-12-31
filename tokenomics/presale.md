@@ -42,4 +42,6 @@ Here you can find all the details of the Chainverge presale:
 **Security:**
 
 Ensuring the utmost security for its community, all Chainverge smart contracts have been rigorously audited by the esteemed security company, [Bail Sec](https://bailsec.io/). \
-This collaboration guarantees that every aspect of Chainverge is fortified against vulnerabilities, ensuring trust and peace of mind for its community.
+This collaboration guarantees that every aspect of Chainverge is fortified against vulnerabilities, ensuring trust and peace of mind for its community.\
+\
+PreSale Contract: 0xf029F29a82f569BDac207750a5B3EBD2Ffb375e0
