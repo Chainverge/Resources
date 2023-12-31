@@ -5,7 +5,7 @@
 **Token Decimals:** 18\
 **Total Supply:** 100.000.000\
 **Max Supply:** 100.000.000\
-**Token Contract:** [**https://etherscan.io/address/0x4e077230E0B9c0977f4c95D843BFee9F14BeD9F6**](https://etherscan.io/address/0x4e077230E0B9c0977f4c95D843BFee9F14BeD9F6)
+**Token Contract:** 0x4e077230E0B9c0977f4c95D843BFee9F14BeD9F6
 
 ***
 
