@@ -1,3 +1,7 @@
+---
+description: Project Overview
+---
+
 # Introduction
 
 Welcome to the comprehensive documentation for the Chainverge Project! \

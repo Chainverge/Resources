@@ -9,6 +9,7 @@
 * [- Fee Distribution](tokenomics/fee-distribution.md)
 * [- Burn Mechanism](tokenomics/burn-mechanism.md)
 * [- PreSale](tokenomics/presale.md)
+* [- Roadmap](tokenomics/roadmap.md)
 
 ## 🤖 Products
 
