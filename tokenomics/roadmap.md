@@ -21,12 +21,14 @@ The list below is meant as reference for new and old users, and a new interactiv
 <img src="../.gitbook/assets/checked-checkbox-512.png" alt="" data-size="line"> Chainverge Inception Market Research\
 <img src="../.gitbook/assets/checked-checkbox-512.png" alt="" data-size="line"> Development CVE Token\
 <img src="../.gitbook/assets/checked-checkbox-512.png" alt="" data-size="line"> Website Development\
-<img src="../.gitbook/assets/checked-checkbox-512.png" alt="" data-size="line"> PrimusZ Pre-Production
+<img src="../.gitbook/assets/checked-checkbox-512.png" alt="" data-size="line"> PrimusZ Pre-Production\
+
 
 ### Marketing
 
 <img src="../.gitbook/assets/checked-checkbox-512.png" alt="" data-size="line"> KOL / VC Onboarding\
-<img src="../.gitbook/assets/checked-checkbox-512.png" alt="" data-size="line"> Establishing Social Media Presence
+<img src="../.gitbook/assets/checked-checkbox-512.png" alt="" data-size="line"> Establishing Social Media Presence\
+
 
 ### Advisors & Team
 
@@ -108,7 +110,8 @@ The list below is meant as reference for new and old users, and a new interactiv
 
 <img src="../.gitbook/assets/checked-checkbox-512.png" alt="" data-size="line"> NFT Marketplace Development\
 <img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> Development Chainverge Mobile App\
-<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> Ankr's Mirage Integration
+<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> Ankr's Mirage Integration\
+<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> PrimusZ Trailer Release
 
 ### Marketing & Development
 
