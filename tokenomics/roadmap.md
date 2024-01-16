@@ -120,7 +120,7 @@ The list below is meant as reference for new and old users, and a new interactiv
 <img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> Chainverge Listing On [Cryptorank.io](https://cryptorank.io/upcoming-ico)\
 <img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> Official Launch Airdrop\
 <img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> CVE PreSale Launchpad Listing On [Cryptorank.io](https://cryptorank.io/upcoming-ico)\
-<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> PreSale Start\
+<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> PreSale Launch\
 
 
 
