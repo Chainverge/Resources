@@ -133,7 +133,7 @@ The list below is meant as reference for new and old users, and a new interactiv
 
 ### Product & Development
 
-<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> CVE Listing On Uniswap DEX\
+\
 <img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> Vergebot Launch\
 <img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> NFT Marketplace Launch\
 <img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> Launch Chainverge Mobile App\
@@ -151,4 +151,5 @@ The list below is meant as reference for new and old users, and a new interactiv
 
 ### Marketing & Development
 
+<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> CVE Listing On Uniswap DEX\
 <img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> CVE Listing On Tier 1 Centralized Exchange
