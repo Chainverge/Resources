@@ -1,4 +1,4 @@
-# Introduction
+# Introduction to PrimusZ
 
 Welcome to the exhilarating world of PrimusZ, a state-of-the-art Play2Earn game meticulously crafted by Chainverge. This introduction, part of Chainverge's GitBook documentation, is designed to guide you through the fundamental aspects of PrimusZ, showcasing its innovative blend of gaming and blockchain technology.
 
@@ -22,11 +22,11 @@ Players begin their journey by acquiring one of several Character NFTs, each wit
 
 #### In-Game Economy
 
-The in-game currency, PRZ Tokens, can be earned through gameplay, such as completing quests and resource management. These tokens can be exchanged for CVE Tokens on the Chainverge website, linking in-game achievements with real-world value.
+The in-game currency, CVE Tokens, can be earned through gameplay, such as completing quests and resource management. These tokens can be exchanged for CVE Tokens on the Chainverge website, linking in-game achievements with real-world value.
 
 ### Play2Earn Mechanics
 
-PrimusZ's Play2Earn model allows players to gain tangible rewards for their gaming skills and strategies. By engaging in various in-game activities, players can accumulate PRZ Tokens, which have economic value both within and outside the game.
+PrimusZ's Play2Earn model allows players to gain tangible rewards for their gaming skills and strategies. By engaging in various in-game activities, players can accumulate CVE Tokens, which have economic value both within and outside the game.
 
 ### Dual Game Versions
 

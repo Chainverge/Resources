@@ -30,7 +30,10 @@
 * [Getting Started](primusz/getting-started/README.md)
   * [Installation and Setup](primusz/getting-started/installation-and-setup.md)
   * [Tutorial Overview](primusz/getting-started/tutorial-overview.md)
-* [Gameplay Mechanics](primusz/gameplay-mechanics.md)
+* [Gameplay Mechanics](primusz/gameplay-mechanics/README.md)
+  * [Character Creation and Customization](primusz/gameplay-mechanics/character-creation-and-customization.md)
+  * [Survival Essentials](primusz/gameplay-mechanics/survival-essentials.md)
+  * [Day-Night Cycle and Weather Effects](primusz/gameplay-mechanics/day-night-cycle-and-weather-effects.md)
 
 ## 🏛️ Governance \[DAO]
 
