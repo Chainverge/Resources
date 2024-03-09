@@ -22,9 +22,15 @@
 * [- Mobile App](products/mobile-app.md)
 * [📖 Product Status Table](products/product-status-table.md)
 
-## 🎮 Primus Multiplayer
+## 🧟 PrimusZ
 
-* [Introduction](primus-multiplayer/introduction.md)
+* [Introduction to PrimusZ](primusz/introduction-to-primusz/README.md)
+  * [Game Concept](primusz/introduction-to-primusz/game-concept.md)
+  * [Setting and Theme](primusz/introduction-to-primusz/setting-and-theme.md)
+* [Getting Started](primusz/getting-started/README.md)
+  * [Installation and Setup](primusz/getting-started/installation-and-setup.md)
+  * [Creating an Account](primusz/getting-started/creating-an-account.md)
+  * [Tutorial Overview](primusz/getting-started/tutorial-overview.md)
 
 ## 🏛️ Governance \[DAO]
 
