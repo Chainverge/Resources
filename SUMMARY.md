@@ -29,8 +29,8 @@
   * [Setting and Theme](primusz/introduction-to-primusz/setting-and-theme.md)
 * [Getting Started](primusz/getting-started/README.md)
   * [Installation and Setup](primusz/getting-started/installation-and-setup.md)
-  * [Creating an Account](primusz/getting-started/creating-an-account.md)
   * [Tutorial Overview](primusz/getting-started/tutorial-overview.md)
+* [Gameplay Mechanics](primusz/gameplay-mechanics.md)
 
 ## 🏛️ Governance \[DAO]
 

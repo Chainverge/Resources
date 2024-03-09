@@ -1,4 +1,12 @@
-# 🛠 Getting set up
+---
+description: >-
+  A more detailed exploration of Chainverge's offerings, from Play2Earn games to
+  NFT markets, with step-by-step instructions on getting started.
+---
+
+# 🛠️ Getting set up
+
+
 
 <details>
 
