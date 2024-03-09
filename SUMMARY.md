@@ -51,6 +51,7 @@
     * [For Mobile (iOS, Android)](fundamentals/getting-set-up/how-to-buy-crypto/for-mobile-ios-android.md)
     * [For PC ( Chrome )](fundamentals/getting-set-up/how-to-buy-crypto/for-pc-chrome.md)
   * [🦊 How to install MetaMask](fundamentals/getting-set-up/how-to-install-metamask.md)
+  * [How to participate in CVE PreSale](fundamentals/getting-set-up/how-to-participate-in-cve-presale.md)
   * [🎮 How to buy CVE Token](fundamentals/getting-set-up/how-to-buy-cve-token.md)
   * [💸 How to Stake CVE](fundamentals/getting-set-up/how-to-stake-cve.md)
   * [▶️ Video Instructions](fundamentals/getting-set-up/video-instructions.md)
