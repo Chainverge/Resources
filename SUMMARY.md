@@ -42,6 +42,22 @@
   * [Gathering and Farming](primusz/resource-management/gathering-and-farming.md)
   * [Crafting and Building](primusz/resource-management/crafting-and-building.md)
   * [Item and Inventory Management](primusz/resource-management/item-and-inventory-management.md)
+* [Combat and Defense](primusz/combat-and-defense/README.md)
+  * [Weapons and Equipment](primusz/combat-and-defense/weapons-and-equipment.md)
+  * [Combat Strategies](primusz/combat-and-defense/combat-strategies.md)
+  * [Base Defense and Fortification](primusz/combat-and-defense/base-defense-and-fortification.md)
+* [Social Interactions](primusz/social-interactions/README.md)
+  * [Forming Alliances and Teams](primusz/social-interactions/forming-alliances-and-teams.md)
+  * [Trade and Barter System](primusz/social-interactions/trade-and-barter-system.md)
+  * [PvP and PvE Dynamics](primusz/social-interactions/pvp-and-pve-dynamics.md)
+* [Play2Earn Features](primusz/play2earn-features/README.md)
+  * [Earning Mechanics](primusz/play2earn-features/earning-mechanics.md)
+  * [In-Game Economy and Tokenomics](primusz/play2earn-features/in-game-economy-and-tokenomics.md)
+  * [Rewards and Achievements](primusz/play2earn-features/rewards-and-achievements.md)
+* [Community and Support](primusz/community-and-support/README.md)
+  * [Joining the PrimusZ Community](primusz/community-and-support/joining-the-primusz-community.md)
+  * [Customer Support and Assistance](primusz/community-and-support/customer-support-and-assistance.md)
+  * [Feedback and Suggestions](primusz/community-and-support/feedback-and-suggestions.md)
 
 ## 🏛️ Governance \[DAO]
 
