@@ -34,6 +34,14 @@
   * [Character Creation and Customization](primusz/gameplay-mechanics/character-creation-and-customization.md)
   * [Survival Essentials](primusz/gameplay-mechanics/survival-essentials.md)
   * [Day-Night Cycle and Weather Effects](primusz/gameplay-mechanics/day-night-cycle-and-weather-effects.md)
+* [The World of PrimusZ](primusz/the-world-of-primusz/README.md)
+  * [Map Overview](primusz/the-world-of-primusz/map-overview.md)
+  * [Environmental Zones and Hazards](primusz/the-world-of-primusz/environmental-zones-and-hazards.md)
+  * [NPC and Enemy Types](primusz/the-world-of-primusz/npc-and-enemy-types.md)
+* [Resource Management](primusz/resource-management/README.md)
+  * [Gathering and Farming](primusz/resource-management/gathering-and-farming.md)
+  * [Crafting and Building](primusz/resource-management/crafting-and-building.md)
+  * [Item and Inventory Management](primusz/resource-management/item-and-inventory-management.md)
 
 ## 🏛️ Governance \[DAO]
 
