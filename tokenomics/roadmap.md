@@ -101,26 +101,20 @@ The list below is meant as reference for new and old users, and a new interactiv
 ### Partnerships
 
 <img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> Strategic Partnership With [PlaytoEarn.net](https://playtoearn.net)\
-<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> Strategic Partnership With [Chainplay.gg](https://chainplay.gg/)\
-<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> Strategic Partnership With [Cryptorank.io](https://cryptorank.io/)\
-<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> Strategic Partnership With [Dappradar.com](https://dappradar.com/)\
-<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> Strategic Partnership With [Ankr.com](https://www.ankr.com/)
+<img src="../.gitbook/assets/checked-checkbox-512.png" alt="" data-size="line"> Strategic Partnership With [Chainplay.gg](https://chainplay.gg/)\
+
 
 ### Product & Development
 
 <img src="../.gitbook/assets/checked-checkbox-512.png" alt="" data-size="line"> NFT Marketplace Development\
-<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> Development Chainverge Mobile App\
-<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> Ankr's Mirage Integration\
-<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> PrimusZ Trailer Release
+
 
 ### Marketing & Development
 
-<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> PrimusZ Listing On Steam\
+\
 <img src="../.gitbook/assets/checked-checkbox-512.png" alt="" data-size="line"> Team Expansion SEO\
-<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> Chainverge Listing On [Cryptorank.io](https://cryptorank.io/upcoming-ico)\
-<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> Official Launch Airdrop\
-<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> CVE PreSale Launchpad Listing On [Cryptorank.io](https://cryptorank.io/upcoming-ico)\
-<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> PreSale Launch\
+<img src="../.gitbook/assets/checked-checkbox-512.png" alt="" data-size="line">  Official Launch Airdrop\
+<img src="../.gitbook/assets/checked-checkbox-512.png" alt="" data-size="line">  PrivateSale Launch\
 
 
 
@@ -129,27 +123,58 @@ The list below is meant as reference for new and old users, and a new interactiv
 
 ## Q2 2024 - April / May / June
 
+### Partnerships
 
+<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> Strategic Partnership With [Dappradar.com](https://dappradar.com/)\
+<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> Strategic Partnership With [Ankr.com](https://www.ankr.com/)\
+<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> Strategic Partnership With [Cryptorank.io](https://cryptorank.io/)
 
 ### Product & Development
 
 \
 <img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> Vergebot Launch\
-<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> NFT Marketplace Launch\
-<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> Launch Chainverge Mobile App\
+<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> NFT Marketplace Development\
+<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> PrimusZ Cinematic Trailer Release\
+<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> PrimusZ Gameplay Trailer Release\
+<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> Ankr's Mirage Integration\
 
 
 ### Marketing & Development
 
 <img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> CVE Listing On [Coinmarketcap.com](https://coinmarketcap.com/)\
 <img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> CVE Listing On [Coingecko.com](https://www.coingecko.com/)\
-<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> CVE Listing On [Coinpaprika.com](https://coinpaprika.com/)
+<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> CVE Listing On [Coinpaprika.com](https://coinpaprika.com/)\
+<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> Chainverge Listing On [Cryptorank.io](https://cryptorank.io/upcoming-ico)\
+<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> PrimusZ Cinematic Trailer Marketing\
+<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> PrimusZ Listing On Steam
 
 ***
 
 ## Q3 2024 - July / August / September
 
+
+
+### Product & Development
+
+<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> NFT Marketplace Launch
+
+
+
 ### Marketing & Development
 
+
+
+<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> PrimusZ Listing On Steam\
 <img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> CVE Listing On Uniswap DEX\
-<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> CVE Listing On Tier 1 Centralized Exchange
+<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> CVE Listing On Tier 1 Centralized Exchange\
+
+
+
+
+## Q4 2024 - July / August / September
+
+
+
+### Product & Development
+
+<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> WEB3 Crypto Card Launch
