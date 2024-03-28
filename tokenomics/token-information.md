@@ -5,6 +5,7 @@
 **Token Decimals:**     18\
 **Total Supply:**           100.000.000\
 **Max Supply:**             100.000.000\
+**Blockchain:**              Ethereum\
 **Token Contract:**
 
 ```remix-solidity
