@@ -21,7 +21,7 @@ The list below is meant as reference for new and old users, and a new interactiv
 <img src="../.gitbook/assets/checked-checkbox-512.png" alt="" data-size="line"> Chainverge Inception Market Research\
 <img src="../.gitbook/assets/checked-checkbox-512.png" alt="" data-size="line"> Development CVE Token\
 <img src="../.gitbook/assets/checked-checkbox-512.png" alt="" data-size="line"> Website Development\
-<img src="../.gitbook/assets/checked-checkbox-512.png" alt="" data-size="line"> PrimusZ Pre-Production\
+<img src="../.gitbook/assets/checked-checkbox-512.png" alt="" data-size="line"> PrimusZ Pre-Production \
 
 
 ### Marketing
@@ -44,9 +44,11 @@ The list below is meant as reference for new and old users, and a new interactiv
 
 <img src="../.gitbook/assets/checked-checkbox-512.png" alt="" data-size="line"> Partnership With Transak.com
 
+
+
 ### Product & Development
 
-<img src="../.gitbook/assets/checked-checkbox-512.png" alt="" data-size="line"> Production Of PrimusZ\
+<img src="../.gitbook/assets/checked-checkbox-512.png" alt="" data-size="line"> PrimusZ Production \
 <img src="../.gitbook/assets/checked-checkbox-512.png" alt="" data-size="line"> Development Staking Protocol
 
 
@@ -80,11 +82,6 @@ The list below is meant as reference for new and old users, and a new interactiv
 
 <img src="../.gitbook/assets/checked-checkbox-512.png" alt="" data-size="line"> Strategic Partnership With Cryptorank.io
 
-### Product & Development
-
-<img src="../.gitbook/assets/checked-checkbox-512.png" alt="" data-size="line"> Testing Of PrimusZ\
-
-
 ### Marketing & Development
 
 <img src="../.gitbook/assets/checked-checkbox-512.png" alt="" data-size="line"> Twitter X Campaign\
@@ -107,6 +104,7 @@ The list below is meant as reference for new and old users, and a new interactiv
 ### Product & Development
 
 <img src="../.gitbook/assets/checked-checkbox-512.png" alt="" data-size="line"> NFT Marketplace Development\
+<img src="../.gitbook/assets/checked-checkbox-512.png" alt="" data-size="line"> PrimusZ Testing\
 
 
 ### Marketing & Development
@@ -137,6 +135,7 @@ The list below is meant as reference for new and old users, and a new interactiv
 <img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> PrimusZ Cinematic Trailer Release\
 <img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> PrimusZ Gameplay Trailer Release\
 <img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> Ankr's Mirage Integration\
+<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> PrimusZ PreLaunch\
 
 
 ### Marketing & Development
@@ -156,7 +155,8 @@ The list below is meant as reference for new and old users, and a new interactiv
 
 ### Product & Development
 
-<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> NFT Marketplace Launch
+<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> NFT Marketplace Launch\
+<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> PrimusZ Main Launch
 
 
 
@@ -177,4 +177,7 @@ The list below is meant as reference for new and old users, and a new interactiv
 
 ### Product & Development
 
-<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> WEB3 Crypto Card Launch
+<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> WEB3 Crypto Card Launch\
+<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> PrimusZ Post Production\
+<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> PrimusZ Ranked Leaderboard\
+<img src="../.gitbook/assets/CheckboxEmpty (2).png" alt="" data-size="line"> PrimusZ Procedural Worlds \
