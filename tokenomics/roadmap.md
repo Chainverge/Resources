@@ -171,7 +171,7 @@ The list below is meant as reference for new and old users, and a new interactiv
 
 
 
-## Q4 2024 - July / August / September
+## Q4 2024 - October / November / December
 
 
 
