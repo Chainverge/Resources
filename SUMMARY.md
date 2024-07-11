@@ -19,7 +19,6 @@
 * [- Crypto Card](products/crypto-card.md)
 * [- VergeBot](products/vergebot.md)
 * [- NFT](products/nft.md)
-* [- Mobile App](products/mobile-app.md)
 * [📖 Product Status Table](products/product-status-table.md)
 
 ## 🧟 PrimusZ

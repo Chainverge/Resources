@@ -2,7 +2,7 @@
 
 
 
-{% file src="../../.gitbook/assets/Chainverge_PitchDeck_EN.pdf" %}
+{% file src="../../.gitbook/assets/Chainverge_PitchDeck_DE (1).pdf" %}
 English Pitch Deck
 {% endfile %}
 
